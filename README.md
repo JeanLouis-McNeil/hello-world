@@ -1,2 +1,3 @@
 # hello-world
-An app that display a "Hello World" sentence.
+I am McNeil Jean-Louis. I am from Haiti and I want to become a developer.
+
